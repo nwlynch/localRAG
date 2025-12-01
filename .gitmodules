@@ -7,3 +7,6 @@
 [submodule "submodules/qdrant"]
 	path = submodules/qdrant
 	url = https://github.com/nwlynch/qdrant.git
+[submodule "submodules/RAGArch"]
+	path = submodules/RAGArch
+	url = https://github.com/nwlynch/RAGArch.git
