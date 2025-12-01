@@ -1,0 +1,9 @@
+[submodule "submodules/unsloth"]
+	path = submodules/unsloth
+	url = https://github.com/nwlynch/unsloth.git
+[submodule "submodules/llama_index"]
+	path = submodules/llama_index
+	url = https://github.com/nwlynch/llama_index.git
+[submodule "submodules/qdrant"]
+	path = submodules/qdrant
+	url = https://github.com/nwlynch/qdrant.git
